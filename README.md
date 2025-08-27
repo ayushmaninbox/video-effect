@@ -1,4 +1,4 @@
-# Beat-Synced Squares (Offline)
+# Beat Sync Random Visualizer
 
 Turn any video – or your webcam feed – into a pulsing network of labelled squares that dance to the beat.
 
